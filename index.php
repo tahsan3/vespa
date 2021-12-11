@@ -53,7 +53,7 @@ $select_icon_result = mysqli_query($db_connect, $select_icon);
 
 
 
-  <title>Richard. - Easy Onepage Personal Template</title>
+  <title>Vespa - Easy Onepage Personal Template</title>
 </head>
 
 <body>
